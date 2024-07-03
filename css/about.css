@@ -1,0 +1,146 @@
+.about {
+    background-image: url(../images/converting-about-us-page.jpg);
+    background-position: center;
+    height: 100vh;
+    margin-top: -24px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.container {
+    margin-left: 900px;
+    word-spacing: 62px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 33px;
+    margin-left: 49px;
+    margin-right: 31px;
+    margin-top: 51px;
+}
+
+.hr {
+    width: 1201px;
+    color: gray;
+}
+
+.vision {
+    margin-left: 92px;
+    margin-top: 32px;
+    word-spacing: 4px;
+}
+
+.hr1 {
+    margin-left: 156px;
+    width: 69px;
+    margin-top: -14px;
+    height: 5px;
+    background-color: red;
+    border-color: red;
+}
+
+.goal {
+    margin-left: 91px;
+    margin-top: 51px;
+}
+
+.goalp {
+    margin-left: 95px;
+    margin-top: 39px;
+    margin-right: 186px;
+}
+
+.idea {
+    color: black;
+    
+    background-color: yellow;
+    margin-left: 68px;
+    font-size: 44px;
+    margin-top: 6px;
+    width: 69px;
+    padding-left: 19px;
+    height: 72px;
+    border-radius: 70px;
+}
+
+.id {
+    margin-left: 175px;
+    margin-top: -66px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+
+.id1 {
+    margin-left: 173px;
+    text-align: left;
+}
+.brain{
+    color: black;
+    background-color: yellow;
+    margin-left: 68px;
+    font-size: 41px;
+    margin-top: 6px;
+    width: 69px;
+    padding-left: 19px;
+    height: 70px;
+    border-radius: 70px;
+}
+.star{
+    color: black;
+    background-color: yellow;
+    margin-left: 68px;
+    font-size: 44px;
+    margin-top: 6px;
+    width: 69px;
+    padding-left: 14px;
+    height: 72px;
+    border-radius: 70px;
+
+}
+.footer{
+    margin-top: 75px;
+    background-color: darkblue;
+    color: white;
+}
+.foth5{
+    margin-top: 78px;
+    margin-left: 78px;
+}
+.fotp{
+    margin-left: 39px;
+    margin-top: 21px;
+    text-align: justify;
+}
+.fots{
+    margin-top: 76px;
+    margin-left: 144px;
+
+}
+.foots{
+    margin-left: 108px;
+    margin-top: 22px;
+}
+.foots1{
+    margin-left: 61px;
+    margin-top: 22px; 
+}
+.btnfull3{
+    margin-top: 613px;
+    padding: 13px;
+    background-color: red;
+    color: white;
+    word-spacing: 5px;
+    border-radius: 34px;
+}
+.copy{
+   
+    margin-top: 55px;
+    margin-left: 40px;
+    padding-bottom: 51px;
+}
+.power{
+    margin-left: 104px;
+    margin-top: 117px;
+}

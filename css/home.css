@@ -1,0 +1,226 @@
+
+.text{
+    background-image: url(../images/UBCM_Website_Banner.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    height: 1119px;
+    padding: 361px;
+}
+.btn1{
+    text-align: center;
+    padding: 4px;
+    margin-top: -563px;
+}
+.btnfull{
+    padding:19px;
+    border-radius: 35px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    word-spacing: 4px;
+}
+.btnfull2{
+    padding:19px;
+    border-radius: 35px;
+    background-color: red;
+    color: white;
+    margin-left: 610px;
+    margin-top: 20px;
+    margin-bottom: 125px;
+    word-spacing: 4px;
+}
+.container {
+    
+    margin: -34px;
+    width: auto;
+    margin-left: 900px;
+    word-spacing: 67px;
+    margin-top: 10px;
+    
+}
+.arrow{
+    color: white;
+    margin-left: 648px;
+    margin-top: 262px;
+}
+.about{
+    margin-left: 615px;
+    margin-top: 289px;
+
+}
+.para{
+    margin-top: 29px;
+    margin-left: 216px;
+    margin-right: 166px;
+    text-align: center;
+    font-size: 19px;
+}
+.vi{
+    text-align: center;
+    background-image: url(../images/our\ vision.webp);
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+    height: 577px;
+    color: white;
+    padding: 162px;
+}
+.para1{
+    margin-top: -277px;
+    color: white;
+    margin-left: 108px;
+    margin-right: 72px;
+    text-align: center;
+}
+.serv{
+    margin-top: 334px;
+    text-align: center;
+}
+.ser1{
+    width: 398px;
+    margin-left: 59px;
+    margin-top: 21px;
+
+}
+.ser2{
+    width: 359px;
+    margin-top: -676px;
+    margin-left: 479px;
+}
+.ser3{
+    width: 394px;
+    margin-top: -676px;
+    margin-left: 861px;
+}
+.serv11{
+    margin-left: 90px;
+    font-size: 32px;
+    margin-top: 11px;
+}
+.ser111{
+    margin-left: 60px;
+    margin-right: 927px;
+    text-align: justify;
+    margin-top: 14px;
+}
+.ser21{
+    margin-left: 473px;
+    margin-top: -224px;
+    font-size: 34px;
+}
+.ser211{
+    margin-left: 463px;
+    margin-right: 503px;
+    text-align: justify;
+    margin-top: 15px;
+}
+.ser31{
+    margin-left: 941px;
+    margin-top: -219px;
+    font-size: 31px;
+}
+.ser311{
+    margin-left: 881px;
+    margin-right: 91px;
+    text-align: justify;
+    margin-top: 15px;
+
+}
+.ser4{
+    width: 386px;
+    margin-left: 53px;
+    margin-top: 17px;
+}
+.ser41{
+    margin-left: 73px;
+    font-size: 33px;
+    margin-top: 11px;
+
+}
+.ser411{
+    margin-left: 59px;
+    margin-right: 928px;
+    text-align: justify;
+    margin-top: 10px;
+}
+.ser5{
+    margin-left: 480px;
+    margin-top: -660px;
+    width: 322px;
+}
+.ser51{
+    margin-left: 500px;
+    margin-top: -204px;
+    font-size: 32px;
+}
+.ser511{
+    margin-left: 458px;
+    margin-right: 532px;
+    text-align: justify;
+    margin-top: 15px;
+}
+.ser6{
+    margin-left: 866px;
+    margin-top: -724px;
+    width: 393px;
+}
+.ser61{
+    margin-left: 876px;
+    margin-top: -223px;
+    font-size: 31px;
+}
+.ser611{
+    margin-left: 867px;
+    margin-right: 86px;
+    margin-top: 17px;
+    text-align: justify;
+}
+.footer{
+    margin-top: 75px;
+    background-color: darkblue;
+    color: white;
+}
+.foth5{
+    margin-top: 78px;
+    margin-left: 78px;
+}
+.fotp{
+    margin-left: 39px;
+    margin-top: 21px;
+    text-align: justify;
+}
+.fots{
+    margin-top: 76px;
+    margin-left: 144px;
+
+}
+.foots{
+    margin-left: 108px;
+    margin-top: 22px;
+}
+.foots1{
+    margin-left: 61px;
+    margin-top: 22px; 
+}
+.btnfull3{
+    margin-top: 613px;
+    padding: 13px;
+    background-color: red;
+    color: white;
+    word-spacing: 5px;
+    border-radius: 34px;
+}
+.copy{
+   
+    margin-top: 55px;
+    margin-left: 40px;
+    padding-bottom: 51px;
+}
+.power{
+    margin-left: 104px;
+    margin-top: 117px;
+}
